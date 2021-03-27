@@ -1,0 +1,30 @@
+body {
+    background-color: darkgoldenrod;
+    color: white;
+}
+.container {
+    color: white;
+    border: none;
+    max-width: 550px;
+ 
+}
+.list-group-item{
+    background-color: rgba(255, 186, 11, 0.699);
+    display: "none" !important;
+}
+
+.hidden {
+    display: none !important;
+    /*visibility: hidden !important;*/
+}
+
+.trash{
+    color: rgb(85, 61, 1);
+    cursor: pointer;
+    
+}
+span{
+    font-family:fantasy;
+    font-style:inherit;
+    font-size: 3ch;
+}
