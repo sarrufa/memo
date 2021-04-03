@@ -1,0 +1,5 @@
+haluk
+git add
+git commit -m "First commit"
+git remote add origin https://github.com/aslan126/baslangic.git
+git push -u origin master
